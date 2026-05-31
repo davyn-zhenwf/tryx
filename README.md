@@ -1,6 +1,6 @@
 # tryx ![](https://github.com/fatih/color/workflows/build/badge.svg)
 
-A lightweight, dead-simple Try–Catch–Finally exception handling pattern for Go.
+A lightweight, dead-simple `Try–Catch–Finally` exception handling pattern for Go.
 
 Supports <b><ins>chained catches</b></ins> and <b><ins>standalone try</b></ins>.
 
